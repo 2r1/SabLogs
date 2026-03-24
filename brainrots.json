@@ -16768,5 +16768,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:03:48.611000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485881804790562866,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $25.96M/s | Los Puggies",
+        "description": "```\n$25.96M/s | Los Puggies\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=3dac7fa2-e7a8-4fd2-a7e2-96f8ca6e16df)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:03:48",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Puggies.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
