@@ -324,5 +324,19 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:44:19.496000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "prestigiously",
+    "author_id": 1244767123167776860,
+    "is_webhook": false,
+    "webhook_id": null,
+    "message_id": 1485892000661377114,
+    "content": "?purge 99999999999999",
+    "embeds": [],
+    "attachments": [],
+    "stickers": []
   }
 ]
