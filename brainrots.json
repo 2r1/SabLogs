@@ -1792,5 +1792,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:50:43.962000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485878513734254626,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3.61M/s | Chill Puppy",
+        "description": "```\n$3.61M/s | Chill Puppy\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=2614ded5-8c39-45b6-9c7f-3c26130a4351)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:50:43",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Chill_Puppy.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
