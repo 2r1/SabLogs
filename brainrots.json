@@ -14857,5 +14857,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:02:15.093000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485881412547510393,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.38M/s | Telemorte",
+        "description": "```\n$2.38M/s | Telemorte\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=48551184-764e-4e6f-ba7e-7db20e40a1a0)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:02:15",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Telemorte.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
