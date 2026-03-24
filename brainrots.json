@@ -1480,5 +1480,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:50:23.849000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485878429374087254,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $33.14M/s | Ketupat Kepat",
+        "description": "```\n$33.14M/s | Ketupat Kepat\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=5ae1c9a4-3786-4efd-8897-dc103d910185)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:50:23",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Ketupat_Kepat.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
