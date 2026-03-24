@@ -76,5 +76,83 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:56:38.425000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485895099954106539,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4M/s | Chill Puppy",
+        "description": "```\n$4M/s | Chill Puppy\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 4aad08ee-2db3-40a0-a181-3b07fb502da9\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=4aad08ee-2db3-40a0-a181-3b07fb502da9\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:56:38",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Chill_Puppy.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:56:39.967000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485895106421723227,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1M/s | Love Love Love Sahur",
+        "description": "```\n$1M/s | Love Love Love Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 29125b43-5e7f-41b8-a006-7a9e7493823d\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=29125b43-5e7f-41b8-a006-7a9e7493823d\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:56:39",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Love_Love_Love_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
