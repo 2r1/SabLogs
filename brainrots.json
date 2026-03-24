@@ -7252,5 +7252,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:55:25.066000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485879692769759354,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $6.91M/s | Los Burritos",
+        "description": "```\n$6.91M/s | Los Burritos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=2cc683a7-0c6a-4570-b629-5671e74e0aad)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:55:25",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Burritos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
