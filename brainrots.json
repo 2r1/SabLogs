@@ -154,5 +154,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:56:41.076000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485895111073337494,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $10M/s | Los 25",
+        "description": "```\n$10M/s | Los 25\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 5bf27b42-9626-49c0-ac98-8580d00dbade\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=5bf27b42-9626-49c0-ac98-8580d00dbade\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:56:40",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_25.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
