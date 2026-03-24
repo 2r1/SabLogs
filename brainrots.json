@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "timestamp": "2026-03-24T06:32:30.164000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889025507332099,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.22M/s | Santa Hotspot",
+        "description": "```\n$2.22M/s | Santa Hotspot\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 22150b14-319f-4cbc-a498-23cfb8c99762\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=22150b14-319f-4cbc-a498-23cfb8c99762\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:29",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Santa_Hotspot.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:32:31.812000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889032419541034,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $5.37M/s | Arcadopus",
+        "description": "```\n$5.37M/s | Arcadopus\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 3dc11017-6cde-4ede-ba04-ed64147a11c8\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=3dc11017-6cde-4ede-ba04-ed64147a11c8\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:31",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Arcadopus.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:32:34.395000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889043253170268,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3.61M/s | Cupid Hotspot",
+        "description": "```\n$3.61M/s | Cupid Hotspot\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 741e640f-13e0-4220-ad5a-608c5a798bf5\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=741e640f-13e0-4220-ad5a-608c5a798bf5\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:34",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Cupid_Hotspot.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:32:37.014000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889054238179398,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3M/s | Ho Ho Ho Sahur",
+        "description": "```\n$3M/s | Ho Ho Ho Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 78b0fc03-0a35-4e68-8d01-ae2e33a3abcb\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=78b0fc03-0a35-4e68-8d01-ae2e33a3abcb\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:36",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Ho_Ho_Ho_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:32:38.553000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889060693217331,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.50M/s | To to to Sahur",
+        "description": "```\n$2.50M/s | To to to Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: aca6c5d3-4fa4-4de4-8185-0c67efe60c0a\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=aca6c5d3-4fa4-4de4-8185-0c67efe60c0a\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:38",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/To_to_to_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:32:40.188000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889067550904500,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.59M/s | To to to Sahur",
+        "description": "```\n$2.59M/s | To to to Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 07d8dee3-545a-4a2a-8a4c-257dd8528a67\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=07d8dee3-545a-4a2a-8a4c-257dd8528a67\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:40",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/To_to_to_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:32:41.814000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485889074370842675,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.05M/s | Telemorte",
+        "description": "```\n$2.05M/s | Telemorte\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: a893a0b2-0f40-4519-9065-680135f9cca4\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=a893a0b2-0f40-4519-9065-680135f9cca4\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:32:41",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Telemorte.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:39:48.544000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "Unknown Channel (1484027838708453386)",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485890864206319656,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $7.73M/s | Los Mi Gatitos",
+        "description": "```\n$7.73M/s | Los Mi Gatitos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 24d7c676-6d54-4d48-952b-c4896fe556b6\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=24d7c676-6d54-4d48-952b-c4896fe556b6\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:39:48",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Mi_Gatitos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  }
+]
