@@ -4444,5 +4444,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:56:53.520000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880063772721162,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.20M/s | La Vacca Lepre Lepreino",
+        "description": "```\n$1.20M/s | La Vacca Lepre Lepreino\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=a03e1bda-40d6-4105-8b29-a2d0ee979535)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:56:53",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/La_Vacca_Lepre_Lepreino.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
