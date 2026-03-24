@@ -1,1 +1,119 @@
-[]
+[
+  {
+    "timestamp": "2026-03-24T06:55:44.430000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894873482530856,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $8M/s | Los Burritos",
+        "description": "```\n$8M/s | Los Burritos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: a01d7bf2-9bfc-4c01-836f-8203c4dfbe3e\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=a01d7bf2-9bfc-4c01-836f-8203c4dfbe3e\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:55:44",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Burritos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:55:46.049000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894880273236090,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4M/s | Los Quesadillas",
+        "description": "```\n$4M/s | Los Quesadillas\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: aeea4158-ce89-4985-ba45-761aebed832a\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=aeea4158-ce89-4985-ba45-761aebed832a\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:55:45",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Quesadillas.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:55:48.842000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894891988062358,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2M/s | List List List Sahur",
+        "description": "```\n$2M/s | List List List Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 61ca40e2-4985-4dd2-bd8e-dbb44b67b49c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=61ca40e2-4985-4dd2-bd8e-dbb44b67b49c\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:55:47",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/List_List_List_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  }
+]
