@@ -20083,5 +20083,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:20:12.013000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485885929477636176,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $13.62M/s | Mariachi Corazoni",
+        "description": "```\n$13.62M/s | Mariachi Corazoni\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 1bf9d7d0-2219-4522-8a1c-96309146a699\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=1bf9d7d0-2219-4522-8a1c-96309146a699\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:20:11",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Mariachi_Corazoni.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
