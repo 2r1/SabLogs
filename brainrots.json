@@ -12166,5 +12166,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:59:49.837000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880803299823677,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $5.03M/s | Noo my Candy",
+        "description": "```\n$5.03M/s | Noo my Candy\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=3ec6052a-c5d6-4e23-955b-d94d73174bee)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:59:49",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Noo_my_Candy.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
