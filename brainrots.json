@@ -72,5 +72,42 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:11:28.507000+00:00",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485868634239664158,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $23.80M/s | Los Mobilis",
+        "description": "```\n$23.80M/s | Los Mobilis\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 43252b66-aa11-4c7f-aa0f-a90eebe31952\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=43252b66-aa11-4c7f-aa0f-a90eebe31952\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:11:28",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Mobilis.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
