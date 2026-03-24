@@ -17509,5 +17509,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:17:37.089000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485885279679283283,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $7.53M/s | Los Chicleteiras",
+        "description": "```\n$7.53M/s | Los Chicleteiras\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 9d10bb85-4ad0-4b28-9ff5-7704ff2428f6\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=9d10bb85-4ad0-4b28-9ff5-7704ff2428f6\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:17:36",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Chicleteiras.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
