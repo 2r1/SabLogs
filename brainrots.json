@@ -3118,5 +3118,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:55:44.303000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485879773455581287,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4.16M/s | Luck Luck Luck Sahur",
+        "description": "```\n$4.16M/s | Luck Luck Luck Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=c469f1b5-d1f9-4094-be85-fd8ca25bce51)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:55:44",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Luck_Luck_Luck_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
