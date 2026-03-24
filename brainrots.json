@@ -12751,5 +12751,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:00:25.409000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880952499470437,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $6.39M/s | Noo my Present",
+        "description": "```\n$6.39M/s | Noo my Present\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=758c4527-0fb4-43fa-9734-da826fdce005)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:00:25",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Noo_my_Present.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
