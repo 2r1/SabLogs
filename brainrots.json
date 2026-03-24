@@ -388,5 +388,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:32:39.401000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485873964755714161,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $12.52M/s | Nuclearo Dinossauro",
+        "description": "```\n$12.52M/s | Nuclearo Dinossauro\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 7c9bd732-e59d-41a2-91bb-a811cd94e228\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=7c9bd732-e59d-41a2-91bb-a811cd94e228\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:32:39",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Nuclearo_Dinossauro.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
