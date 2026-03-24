@@ -154,5 +154,83 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:55:02.006000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894695543378013,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1M/s | Los Jobcitos",
+        "description": "```\n$1M/s | Los Jobcitos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 185542da-c912-4c8c-b922-30c450cccdaf\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=185542da-c912-4c8c-b922-30c450cccdaf\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:55:01",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Jobcitos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:55:03.619000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894702308790407,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4M/s | Granny",
+        "description": "```\n$4M/s | Granny\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 933256cb-27ae-4d15-8d3c-33b4f0a3211a\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=933256cb-27ae-4d15-8d3c-33b4f0a3211a\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:55:03",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Granny.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
