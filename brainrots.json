@@ -21331,5 +21331,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:17:10.415000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485885167800418417,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.96M/s | Cupid Hotspot",
+        "description": "```\n$2.96M/s | Cupid Hotspot\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: eef64939-81e9-46b1-9167-7d6ee18fbe60\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=eef64939-81e9-46b1-9167-7d6ee18fbe60\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:17:10",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Cupid_Hotspot.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
