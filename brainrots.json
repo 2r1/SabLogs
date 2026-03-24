@@ -232,5 +232,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:56:45.464000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485895129477943346,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4M/s | Chicleteirina Bicicleteirina",
+        "description": "```\n$4M/s | Chicleteirina Bicicleteirina\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: b5d4a741-acef-4121-9654-a564c96506c2\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=b5d4a741-acef-4121-9654-a564c96506c2\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:56:45",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Chicleteirina_Bicicleteirina.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
