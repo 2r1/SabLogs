@@ -20395,5 +20395,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:20:28.311000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485885997836275753,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4.32M/s | Arcadopus",
+        "description": "```\n$4.32M/s | Arcadopus\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: e64e983b-e65f-4bd1-abc4-0a5dd5e5da9b\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=e64e983b-e65f-4bd1-abc4-0a5dd5e5da9b\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:20:28",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Arcadopus.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
