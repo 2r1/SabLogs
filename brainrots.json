@@ -14584,5 +14584,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:02:02.854000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485881361213685760,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.08M/s | Please my Present",
+        "description": "```\n$1.08M/s | Please my Present\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=3ddce32b-a5ce-44f7-88ba-502d7c11d128)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:02:02",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Please_my_Present.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
