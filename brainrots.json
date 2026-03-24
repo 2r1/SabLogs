@@ -10528,5 +10528,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:58:16.381000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485880411316944997,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $11.95M/s | Noo my Heart",
+        "description": "```\n$11.95M/s | Noo my Heart\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=0484cbea-7523-4727-9db5-1396527479e7)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:58:16",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Noo_my_Heart.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
