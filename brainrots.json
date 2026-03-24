@@ -168,5 +168,32 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:44:43.535000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Dyno",
+    "author_id": 155149108183695360,
+    "is_webhook": false,
+    "webhook_id": null,
+    "message_id": 1485892101488250903,
+    "content": "",
+    "embeds": [
+      {
+        "title": null,
+        "description": "<:dynoError:314691684455809024> Unable to find any messages.",
+        "url": null,
+        "type": "rich",
+        "color": 15747399,
+        "author": null,
+        "fields": [],
+        "footer": null,
+        "image": null,
+        "thumbnail": null
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
