@@ -37,5 +37,83 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:53:32.775000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894321281433761,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3M/s | Quesadilla Crocodila",
+        "description": "```\n$3M/s | Quesadilla Crocodila\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 694a5966-69d8-49ac-812a-081bf13019d8\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=694a5966-69d8-49ac-812a-081bf13019d8\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:32",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Quesadilla_Crocodila.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:53:34.298000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894327669362748,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3M/s | Naughty Naughty",
+        "description": "```\n$3M/s | Naughty Naughty\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 185542da-c912-4c8c-b922-30c450cccdaf\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=185542da-c912-4c8c-b922-30c450cccdaf\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:34",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Naughty_Naughty.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
