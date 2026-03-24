@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "timestamp": "2026-03-24T06:53:47.895000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894384699572346,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $5M/s | Noo my Candy",
+        "description": "```\n$5M/s | Noo my Candy\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 0e2726fd-d1de-40d1-825c-532c4e88a82b\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=0e2726fd-d1de-40d1-825c-532c4e88a82b\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:47",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Noo_my_Candy.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:53:50.796000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894396867121202,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4M/s | Granny",
+        "description": "```\n$4M/s | Granny\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: db68f8df-9a52-4819-bc9e-a17d7551648b\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=db68f8df-9a52-4819-bc9e-a17d7551648b\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:50",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Granny.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  }
+]
