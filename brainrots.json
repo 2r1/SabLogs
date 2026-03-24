@@ -3976,5 +3976,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:52:28.124000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485878950621089853,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.38M/s | Los Cucarachas",
+        "description": "```\n$1.38M/s | Los Cucarachas\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=273fbb52-0213-4d38-9f80-5826f2a4b5bc)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:52:28",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Cucarachas.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
