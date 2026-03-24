@@ -310,5 +310,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:47:56.956000+00:00",
+    "channel_id": 1484026951709491413,
+    "channel_name": "🎖️┃goatlights",
+    "author": "Horizon",
+    "author_id": 1485178589048733758,
+    "is_webhook": true,
+    "webhook_id": 1485178589048733758,
+    "message_id": 1485892912754458734,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $255.83M/s | Dragon Cannelloni",
+        "description": "```\n$255.83M/s | Dragon Cannelloni\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: a2fd8186-0783-4b81-9ed0-045490ed9937\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=a2fd8186-0783-4b81-9ed0-045490ed9937\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:47:56",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Dragon_Cannelloni.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
