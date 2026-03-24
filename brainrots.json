@@ -20824,5 +20824,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:20:50.146000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485886089418772521,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $6.27M/s | Los Nooo My Hotspotsitos",
+        "description": "```\n$6.27M/s | Los Nooo My Hotspotsitos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 87422713-ddd4-4d6f-84a1-df6cee1f67f2\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=87422713-ddd4-4d6f-84a1-df6cee1f67f2\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:20:49",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Nooo_My_Hotspotsitos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
