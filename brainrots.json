@@ -193,5 +193,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:32:36.582000+00:00",
+    "channel_id": 1484026951709491413,
+    "channel_name": "🎖️┃goatlights",
+    "author": "Horizon",
+    "author_id": 1485178589048733758,
+    "is_webhook": true,
+    "webhook_id": 1485178589048733758,
+    "message_id": 1485873952931844207,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $308.07M/s | Hydra Dragon Cannelloni",
+        "description": "```\n$308.07M/s | Hydra Dragon Cannelloni\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: c6c8391e-6de1-422a-bd43-d2fe2a0df6dc\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=c6c8391e-6de1-422a-bd43-d2fe2a0df6dc\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:32:36",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Hydra_Dragon_Cannelloni.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
