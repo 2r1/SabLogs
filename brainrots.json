@@ -10138,5 +10138,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:57:55.744000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880324759224401,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4.36M/s | Burrito Bandito",
+        "description": "```\n$4.36M/s | Burrito Bandito\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=f5adc7a1-3cfe-400a-a5d1-e226394763b6)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:57:55",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Burrito_Bandito.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
