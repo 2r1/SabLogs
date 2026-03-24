@@ -18406,5 +18406,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:05:07.171000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485882134295216249,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.85M/s | Eid Eid Eid Sahur",
+        "description": "```\n$2.85M/s | Eid Eid Eid Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=13961596-53fe-4c7b-b873-06688ea9d074)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:05:07",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Eid_Eid_Eid_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
