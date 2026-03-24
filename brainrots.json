@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "timestamp": "2026-03-24T06:53:15.771000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894249961623674,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1M/s | La Vacca Lepre Lepreino",
+        "description": "```\n$1M/s | La Vacca Lepre Lepreino\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 3a1ea186-0577-41f9-aa01-5133a11fb7c7\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=3a1ea186-0577-41f9-aa01-5133a11fb7c7\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:15",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/La_Vacca_Lepre_Lepreino.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:53:17.468000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894257079226488,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2M/s | List List List Sahur",
+        "description": "```\n$2M/s | List List List Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 6ec34299-cac0-4e51-b317-f32a537ab72c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=6ec34299-cac0-4e51-b317-f32a537ab72c\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:17",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/List_List_List_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  }
+]
