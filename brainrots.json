@@ -349,5 +349,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:39:52.848000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485890882258341989,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $6.15M/s | Serafinna Medusella",
+        "description": "```\n$6.15M/s | Serafinna Medusella\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 46e8ac2d-f40c-4eab-874d-9a408317f9e7\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=46e8ac2d-f40c-4eab-874d-9a408317f9e7\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:39:52",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Serafinna_Medusella.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
