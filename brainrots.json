@@ -18640,5 +18640,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:05:19.422000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485882185679634462,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3.51M/s | Chicleteira Bicicleteira",
+        "description": "```\n$3.51M/s | Chicleteira Bicicleteira\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=47cdcd9d-588d-46b4-88f2-af4f93383042)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:05:19",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Chicleteira_Bicicleteira.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
