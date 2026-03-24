@@ -12556,5 +12556,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:03:57.222000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485881840907718726,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.74M/s | Pot Hotspot",
+        "description": "```\n$2.74M/s | Pot Hotspot\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=3364a34d-0385-4853-a225-3d86d881581c)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:03:57",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Pot_Hotspot.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
