@@ -154,5 +154,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:45:05.915000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485892195356639313,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $972.51K/s | Love Love Love Sahur",
+        "description": "```\n$972.51K/s | Love Love Love Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 3e446e08-524e-42fb-9210-6f0c8e20548b\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=3e446e08-524e-42fb-9210-6f0c8e20548b\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:45:05",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Love_Love_Love_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
