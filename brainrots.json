@@ -76,5 +76,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:56:22.980000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485895035173212270,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2M/s | List List List Sahur",
+        "description": "```\n$2M/s | List List List Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: fd449f77-70b5-49aa-a34f-6f98bfaf1e93\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=fd449f77-70b5-49aa-a34f-6f98bfaf1e93\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:56:22",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/List_List_List_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
