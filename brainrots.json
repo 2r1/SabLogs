@@ -115,5 +115,19 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:44:27.170000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "prestigiously",
+    "author_id": 1244767123167776860,
+    "is_webhook": false,
+    "webhook_id": null,
+    "message_id": 1485892032848203878,
+    "content": "?purge 99999999999999",
+    "embeds": [],
+    "attachments": [],
+    "stickers": []
   }
 ]
