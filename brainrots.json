@@ -12751,5 +12751,83 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:04:06.788000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485881881030430800,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $993.63K/s | Perrito Burrito",
+        "description": "```\n$993.63K/s | Perrito Burrito\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=a6b294f8-5904-475a-a429-77ee29617fdd)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:04:06",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Perrito_Burrito.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:04:08.383000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485881887720472699,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.92M/s | Telemorte",
+        "description": "```\n$1.92M/s | Telemorte\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=59923017-f063-4409-b15d-23faa47dc147)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:04:08",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Telemorte.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
