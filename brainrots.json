@@ -20941,5 +20941,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:20:58.751000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485886125510758501,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.61M/s | Horegini Boom",
+        "description": "```\n$2.61M/s | Horegini Boom\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 2b5c5fdf-9a66-492d-9b5b-f1d6ea53a6f6\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=2b5c5fdf-9a66-492d-9b5b-f1d6ea53a6f6\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:20:57",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Horegini_Boom.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
