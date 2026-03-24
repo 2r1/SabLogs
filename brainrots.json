@@ -232,5 +232,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:52:36.456000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894085062688828,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2M/s | Santa Hotspot",
+        "description": "```\n$2M/s | Santa Hotspot\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: a2b926b6-4761-4f77-a565-4e9697efd41b\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=a2b926b6-4761-4f77-a565-4e9697efd41b\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:52:36",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Santa_Hotspot.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
