@@ -18796,5 +18796,83 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:18:52.783000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485885597162799124,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.33M/s | Los Cucarachas",
+        "description": "```\n$1.33M/s | Los Cucarachas\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: f058b68e-7089-4a0f-a271-93d93ca311e2\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=f058b68e-7089-4a0f-a271-93d93ca311e2\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:18:52",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Cucarachas.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:18:56.292000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485885611880743006,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3.74M/s | Cupid Hotspot",
+        "description": "```\n$3.74M/s | Cupid Hotspot\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: a5f54fc6-570b-49c0-b4c2-d3399d656ef5\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=a5f54fc6-570b-49c0-b4c2-d3399d656ef5\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:18:56",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Cupid_Hotspot.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
