@@ -115,5 +115,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:54:10.946000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894481382477854,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2M/s | To to to Sahur",
+        "description": "```\n$2M/s | To to to Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 977e4071-5d14-46b8-ba1d-813e98cc39a9\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=977e4071-5d14-46b8-ba1d-813e98cc39a9\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:54:10",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/To_to_to_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
