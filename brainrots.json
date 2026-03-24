@@ -12205,5 +12205,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:03:44.375000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485881787023360011,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.43M/s | Cuadramat and Pakrahmatmamat",
+        "description": "```\n$1.43M/s | Cuadramat and Pakrahmatmamat\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=9dab8638-2ae4-4e31-a75d-54d0de420a45)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:03:44",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Cuadramat_and_Pakrahmatmamat.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
