@@ -466,5 +466,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:32:41.574000+00:00",
+    "channel_id": 1484026951709491413,
+    "channel_name": "🎖️┃goatlights",
+    "author": "Horizon",
+    "author_id": 1485178589048733758,
+    "is_webhook": true,
+    "webhook_id": 1485178589048733758,
+    "message_id": 1485873973869678662,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $149.50M/s | Capitano Moby",
+        "description": "```\n$149.50M/s | Capitano Moby\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: aab8d3e4-8e11-4e5b-a895-47859e2ac26c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=aab8d3e4-8e11-4e5b-a895-47859e2ac26c\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:32:41",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Capitano_Moby.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
