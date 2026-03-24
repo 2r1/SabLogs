@@ -271,5 +271,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:47:23.932000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485892774241763399,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.51M/s | Naughty Naughty",
+        "description": "```\n$2.51M/s | Naughty Naughty\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 07db93ad-d06a-45e3-a975-f88417b8bdb8\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=07db93ad-d06a-45e3-a975-f88417b8bdb8\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:47:23",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Naughty_Naughty.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
