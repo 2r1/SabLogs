@@ -154,5 +154,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:53:23.334000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894281683009696,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1M/s | Tung Tung Tung Sahur",
+        "description": "```\n$1M/s | Tung Tung Tung Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: aeea4158-ce89-4985-ba45-761aebed832a\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=aeea4158-ce89-4985-ba45-761aebed832a\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:22",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Tung_Tung_Tung_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
