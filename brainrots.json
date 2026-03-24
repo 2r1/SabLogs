@@ -700,5 +700,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:49:49.513000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485878285358333973,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.67M/s | Los Jobcitos",
+        "description": "```\n$1.67M/s | Los Jobcitos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=489a964a-75ed-4bb8-8930-92758c67d9e6)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:49:49",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Jobcitos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
