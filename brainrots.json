@@ -193,5 +193,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:47:37.139000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485892829636198481,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $5.25M/s | Los Mi Gatitos",
+        "description": "```\n$5.25M/s | Los Mi Gatitos\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: dc295b5c-249d-428a-809a-560242faae1c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=dc295b5c-249d-428a-809a-560242faae1c\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:47:37",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Mi_Gatitos.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
