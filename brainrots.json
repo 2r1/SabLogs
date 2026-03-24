@@ -12595,5 +12595,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:00:17.193000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880918039072870,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.49M/s | Quesadilla Crocodila",
+        "description": "```\n$2.49M/s | Quesadilla Crocodila\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=7f3c14f9-dc95-4d0e-b137-2a5b5c82c53e)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:00:17",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Quesadilla_Crocodila.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
