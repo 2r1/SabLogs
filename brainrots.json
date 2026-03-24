@@ -168,5 +168,19 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:44:29.747000+00:00",
+    "channel_id": 1484026951709491413,
+    "channel_name": "🎖️┃goatlights",
+    "author": "prestigiously",
+    "author_id": 1244767123167776860,
+    "is_webhook": false,
+    "webhook_id": null,
+    "message_id": 1485892043657056337,
+    "content": "?purge 99999999999999",
+    "embeds": [],
+    "attachments": [],
+    "stickers": []
   }
 ]
