@@ -1,18 +1,18 @@
 [
   {
-    "timestamp": "2026-03-24T06:54:21.483000+00:00",
+    "timestamp": "2026-03-24T06:54:37.959000+00:00",
     "channel_id": 1484027838708453386,
     "channel_name": "❄️┃lowlights",
     "author": "Horizon",
     "author_id": 1485178194284904448,
     "is_webhook": true,
     "webhook_id": 1485178194284904448,
-    "message_id": 1485894525577854977,
+    "message_id": 1485894594682945616,
     "content": "",
     "embeds": [
       {
-        "title": "💵  $2M/s | Santa Hotspot",
-        "description": "```\n$2M/s | Santa Hotspot\n```",
+        "title": "💵  $5M/s | Los Nooo My Hotspotsitos",
+        "description": "```\n$5M/s | Los Nooo My Hotspotsitos\n```",
         "url": null,
         "type": "rich",
         "color": 4718721,
@@ -23,328 +23,16 @@
         "fields": [
           {
             "name": "🔗 Server Info",
-            "value": "```\nID: c6bbe1ab-9520-4032-8f8d-ba337408a0d2\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=c6bbe1ab-9520-4032-8f8d-ba337408a0d2\n```",
+            "value": "```\nID: 5fb231b5-fe40-47b9-a486-775244006a0d\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=5fb231b5-fe40-47b9-a486-775244006a0d\n```",
             "inline": false
           }
         ],
         "footer": {
-          "text": "2026-03-24 02:54:21",
+          "text": "2026-03-24 02:54:37",
           "icon_url": null
         },
         "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Santa_Hotspot.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:23.128000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894532477354024,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $2M/s | Telemorte",
-        "description": "```\n$2M/s | Telemorte\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: e7c8e927-98e2-46df-b370-1ba330c595bb\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=e7c8e927-98e2-46df-b370-1ba330c595bb\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:22",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Telemorte.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:25.033000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894540467507373,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $4M/s | Los Quesadillas",
-        "description": "```\n$4M/s | Los Quesadillas\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: 5fd1cf7f-a18c-42b5-8ee6-07c450777420\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=5fd1cf7f-a18c-42b5-8ee6-07c450777420\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:24",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Quesadillas.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:25.990000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894544481320970,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $2M/s | Pirulitoita Bicicletera",
-        "description": "```\n$2M/s | Pirulitoita Bicicletera\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: 6170c3b0-1d77-4206-96f0-7d97ddb0b68a\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=6170c3b0-1d77-4206-96f0-7d97ddb0b68a\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:25",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Pirulitoita_Bicicletera.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:27.533000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894550953136140,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $4M/s | Granny",
-        "description": "```\n$4M/s | Granny\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: 70506182-8dd2-47a0-b445-8199209ba0f8\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=70506182-8dd2-47a0-b445-8199209ba0f8\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:27",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Granny.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:30.471000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894563276001423,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $5M/s | Arcadopus",
-        "description": "```\n$5M/s | Arcadopus\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: 67eb538e-525a-4b15-9512-c6240aeeec1c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=67eb538e-525a-4b15-9512-c6240aeeec1c\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:30",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Arcadopus.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:31.919000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894569349484625,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $3M/s | Ho Ho Ho Sahur",
-        "description": "```\n$3M/s | Ho Ho Ho Sahur\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: c83604f5-cf0b-47c0-b405-81acde527750\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=c83604f5-cf0b-47c0-b405-81acde527750\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:31",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Ho_Ho_Ho_Sahur.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:33.786000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894577180246076,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $2M/s | Pirulitoita Bicicletera",
-        "description": "```\n$2M/s | Pirulitoita Bicicletera\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: ff73a546-2e93-45c3-8383-3dea0d892b2c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=ff73a546-2e93-45c3-8383-3dea0d892b2c\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:33",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Pirulitoita_Bicicletera.png"
-      }
-    ],
-    "attachments": [],
-    "stickers": []
-  },
-  {
-    "timestamp": "2026-03-24T06:54:36.271000+00:00",
-    "channel_id": 1484027838708453386,
-    "channel_name": "❄️┃lowlights",
-    "author": "Horizon",
-    "author_id": 1485178194284904448,
-    "is_webhook": true,
-    "webhook_id": 1485178194284904448,
-    "message_id": 1485894587602964523,
-    "content": "",
-    "embeds": [
-      {
-        "title": "💵  $2M/s | Pot Hotspot",
-        "description": "```\n$2M/s | Pot Hotspot\n```",
-        "url": null,
-        "type": "rich",
-        "color": 4718721,
-        "author": {
-          "name": "🔔 Horizon Notifier",
-          "url": null
-        },
-        "fields": [
-          {
-            "name": "🔗 Server Info",
-            "value": "```\nID: 67eb538e-525a-4b15-9512-c6240aeeec1c\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=67eb538e-525a-4b15-9512-c6240aeeec1c\n```",
-            "inline": false
-          }
-        ],
-        "footer": {
-          "text": "2026-03-24 02:54:36",
-          "icon_url": null
-        },
-        "image": null,
-        "thumbnail": "https://sabtradingvalues.com/images/items/Pot_Hotspot.png"
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Nooo_My_Hotspotsitos.png"
       }
     ],
     "attachments": [],
