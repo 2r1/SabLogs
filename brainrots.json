@@ -76,5 +76,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:42:58.827000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485891662310936636,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4.56M/s | Granny",
+        "description": "```\n$4.56M/s | Granny\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: d6ad8f8c-2c50-4aa2-91ce-51d2373460ef\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=d6ad8f8c-2c50-4aa2-91ce-51d2373460ef\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:42:58",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Granny.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
