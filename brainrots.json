@@ -9007,5 +9007,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:56:59.080000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880087093055519,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $3.72M/s | Los Quesadillas",
+        "description": "```\n$3.72M/s | Los Quesadillas\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=c17ead99-527e-44ba-8ed3-2e629eedf883)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:56:58",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Quesadillas.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
