@@ -544,5 +544,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:32:41.417000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485873973211299895,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $44.38M/s | Lavadorito Spinito",
+        "description": "```\n$44.38M/s | Lavadorito Spinito\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 7277f535-da40-4774-a67f-fd0fc4da00d7\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=7277f535-da40-4774-a67f-fd0fc4da00d7\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:32:41",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Lavadorito_Spinito.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
