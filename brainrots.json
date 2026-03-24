@@ -21292,5 +21292,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:21:04.541000+00:00",
+    "channel_id": 1484026951709491413,
+    "channel_name": "🎖️┃goatlights",
+    "author": "Horizon",
+    "author_id": 1485178589048733758,
+    "is_webhook": true,
+    "webhook_id": 1485178589048733758,
+    "message_id": 1485886149796036752,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $70.72M/s | Spooky and Pumpky",
+        "description": "```\n$70.72M/s | Spooky and Pumpky\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: a4677d3f-c634-4a86-8a92-715798591c67\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=a4677d3f-c634-4a86-8a92-715798591c67\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:21:04",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Spooky_and_Pumpky.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
