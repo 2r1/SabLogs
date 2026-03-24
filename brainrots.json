@@ -154,5 +154,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:28:44.667000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485872980209700995,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.05M/s | Pirulitoita Bicicletera",
+        "description": "```\n$2.05M/s | Pirulitoita Bicicletera\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: b723fe05-a412-4fe4-9ff4-b84b00372dd7\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=b723fe05-a412-4fe4-9ff4-b84b00372dd7\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:28:44",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Pirulitoita_Bicicletera.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
