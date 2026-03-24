@@ -21448,5 +21448,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:21:05.468000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485886153684025436,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $17.04M/s | Las Sis",
+        "description": "```\n$17.04M/s | Las Sis\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 9f59b2df-fca0-4445-b013-81a46ec3d4eb\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=9f59b2df-fca0-4445-b013-81a46ec3d4eb\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:21:04",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Las_Sis.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
