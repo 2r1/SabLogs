@@ -9202,5 +9202,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:57:09.161000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485880129375703101,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.57M/s | 25",
+        "description": "```\n$2.57M/s | 25\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=c52a78c6-2182-42ce-8e05-9aa6d0b36b24)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:57:08",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/25.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
