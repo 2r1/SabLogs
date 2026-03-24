@@ -17977,5 +17977,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:18:06.424000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485885402719060129,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1.25M/s | Bunnyman",
+        "description": "```\n$1.25M/s | Bunnyman\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 339b3895-e255-4f54-9fec-2c2614deb1bf\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=339b3895-e255-4f54-9fec-2c2614deb1bf\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:18:06",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Bunnyman.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
