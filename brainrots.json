@@ -2962,5 +2962,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:51:37.826000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485878739656249466,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.78M/s | Ho Ho Ho Sahur",
+        "description": "```\n$2.78M/s | Ho Ho Ho Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=441d5a6f-04e6-44dd-8ecc-27ace78d2021)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:51:37",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Ho_Ho_Ho_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
