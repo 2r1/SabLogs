@@ -388,5 +388,83 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:40:36.774000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485891066497466399,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $2.66M/s | To to to Sahur",
+        "description": "```\n$2.66M/s | To to to Sahur\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 25db418e-6dfc-4056-bda4-52553b8e121b\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=25db418e-6dfc-4056-bda4-52553b8e121b\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:40:36",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/To_to_to_Sahur.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:40:39.431000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485891077641867284,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $4.03M/s | Los Quesadillas",
+        "description": "```\n$4.03M/s | Los Quesadillas\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: b67463fa-3540-440f-9696-92655fe2ecc6\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=b67463fa-3540-440f-9696-92655fe2ecc6\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:40:39",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Los_Quesadillas.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
