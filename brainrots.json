@@ -1441,5 +1441,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:50:23.288000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485878427020955758,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $931.74K/s | Graipuss Medussi",
+        "description": "```\n$931.74K/s | Graipuss Medussi\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=82abf29e-dbb6-4ae1-acd0-b1ceb58bc801)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:50:23",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Graipuss_Medussi.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
