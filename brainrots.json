@@ -21253,5 +21253,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:21:04.443000+00:00",
+    "channel_id": 1484026951709491413,
+    "channel_name": "🎖️┃goatlights",
+    "author": "Horizon",
+    "author_id": 1485178589048733758,
+    "is_webhook": true,
+    "webhook_id": 1485178589048733758,
+    "message_id": 1485886149384736809,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $51.77M/s | Garama and Madundung",
+        "description": "```\n$51.77M/s | Garama and Madundung\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: d4661054-4fca-44c0-93b1-32ec2e7075fa\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=d4661054-4fca-44c0-93b1-32ec2e7075fa\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:21:04",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Garama_and_Madundung.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
