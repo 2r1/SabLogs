@@ -661,5 +661,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T05:53:28.502000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485879203864907846,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $27.51M/s | Chipso and Queso",
+        "description": "```\n$27.51M/s | Chipso and Queso\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "Join Server",
+            "value": "[Click here to join](https://www.roblox.com/games/109983668079237?serverInstanceId=18add7c2-1ebd-424c-b4ee-6c52dc19a48d)",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 01:53:28",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Chipso_and_Queso.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
