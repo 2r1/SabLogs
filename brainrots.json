@@ -271,5 +271,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:48:28.786000+00:00",
+    "channel_id": 1484027766486859829,
+    "channel_name": "💧┃midlights",
+    "author": "Horizon",
+    "author_id": 1485178838211100682,
+    "is_webhook": true,
+    "webhook_id": 1485178838211100682,
+    "message_id": 1485893046259286116,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $24.99M/s | Money Money Puggy",
+        "description": "```\n$24.99M/s | Money Money Puggy\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: c457d4bb-eb36-424c-af7d-0d1c10c330fc\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=c457d4bb-eb36-424c-af7d-0d1c10c330fc\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:48:28",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Money_Money_Puggy.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
