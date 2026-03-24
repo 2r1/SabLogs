@@ -232,5 +232,44 @@
     ],
     "attachments": [],
     "stickers": []
+  },
+  {
+    "timestamp": "2026-03-24T06:53:40.207000+00:00",
+    "channel_id": 1484027838708453386,
+    "channel_name": "❄️┃lowlights",
+    "author": "Horizon",
+    "author_id": 1485178194284904448,
+    "is_webhook": true,
+    "webhook_id": 1485178194284904448,
+    "message_id": 1485894352453501060,
+    "content": "",
+    "embeds": [
+      {
+        "title": "💵  $1M/s | Perrito Burrito",
+        "description": "```\n$1M/s | Perrito Burrito\n```",
+        "url": null,
+        "type": "rich",
+        "color": 4718721,
+        "author": {
+          "name": "🔔 Horizon Notifier",
+          "url": null
+        },
+        "fields": [
+          {
+            "name": "🔗 Server Info",
+            "value": "```\nID: 6326e59d-824f-4c20-b78e-71e6c9819b8e\nJoin: https://www.roblox.com/games/109983668079237?serverInstanceId=6326e59d-824f-4c20-b78e-71e6c9819b8e\n```",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "2026-03-24 02:53:39",
+          "icon_url": null
+        },
+        "image": null,
+        "thumbnail": "https://sabtradingvalues.com/images/items/Perrito_Burrito.png"
+      }
+    ],
+    "attachments": [],
+    "stickers": []
   }
 ]
