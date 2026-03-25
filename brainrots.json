@@ -502,9 +502,10 @@
     "server_id": "8dbf9947-c2e2-4af0-a6ac-97f48a097a0e",
     "brainrot_lines": [
       "$5.48M/s | Noo my Present",
-      "$28.49M/s | Mieteteira Bicicleteira"
+      "$28.49M/s | Mieteteira Bicicleteira",
+      "$8.42M/s | Los 25"
     ],
-    "timestamp": "2026-03-24 21:15:48"
+    "timestamp": "2026-03-24 21:16:15"
   },
   {
     "channel": "💧┃midlights",
@@ -825,5 +826,13 @@
       "$13.10M/s | Noo my Gold"
     ],
     "timestamp": "2026-03-24 21:16:14"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "f060c8d2-1b20-496e-952e-dc6183f40de9",
+    "brainrot_lines": [
+      "$1.07M/s | Perrito Burrito"
+    ],
+    "timestamp": "2026-03-24 21:16:15"
   }
 ]
