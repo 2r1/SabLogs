@@ -476,9 +476,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "5173ae30-72c7-4e03-b05b-6e4df39c1c28",
     "brainrot_lines": [
-      "$1.70M/s | Los Jobcitos"
+      "$1.70M/s | Los Jobcitos",
+      "$59.38M/s | Spaghetti Tualetti"
     ],
-    "timestamp": "2026-03-24 21:14:47"
+    "timestamp": "2026-03-24 21:14:52"
   },
   {
     "channel": "❄️┃lowlights",
@@ -487,5 +488,13 @@
       "$2.45M/s | Pot Hotspot"
     ],
     "timestamp": "2026-03-24 21:14:49"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "fcc77857-76db-4b60-b9ee-cccdbff87614",
+    "brainrot_lines": [
+      "$66.20M/s | Spooky and Pumpky"
+    ],
+    "timestamp": "2026-03-24 21:14:56"
   }
 ]
