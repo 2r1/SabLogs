@@ -205,9 +205,10 @@
     "channel": "💧┃midlights",
     "server_id": "3a271236-97c6-4dbb-8d41-ecc4fe5bea6f",
     "brainrot_lines": [
-      "$45.85M/s | Ketchuru and Musturu"
+      "$45.85M/s | Ketchuru and Musturu",
+      "$10.02M/s | Los Burritos"
     ],
-    "timestamp": "2026-03-24 21:08:29"
+    "timestamp": "2026-03-24 21:09:13"
   },
   {
     "channel": "💧┃midlights",
@@ -345,5 +346,13 @@
       "$44.51M/s | La Lucky Grande"
     ],
     "timestamp": "2026-03-24 21:09:06"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "b19e9e95-1f86-45a4-ae7b-6ce79950595b",
+    "brainrot_lines": [
+      "$10.70M/s | Los 25"
+    ],
+    "timestamp": "2026-03-24 21:09:11"
   }
 ]
