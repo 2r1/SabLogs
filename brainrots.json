@@ -79,9 +79,10 @@
     "server_id": "849231cd-432b-44f4-9fd5-d7f1944a3d0e",
     "brainrot_lines": [
       "$15.63M/s | Noo my Gold",
-      "$5.67M/s | Los Chicleteiras"
+      "$5.67M/s | Los Chicleteiras",
+      "$1.12M/s | Love Love Love Sahur"
     ],
-    "timestamp": "2026-03-24 23:39:59"
+    "timestamp": "2026-03-24 23:40:15"
   },
   {
     "channel": "❄️┃lowlights",
@@ -212,9 +213,10 @@
     "channel": "💧┃midlights",
     "server_id": "37b8e0ab-980f-4a72-9067-7627ee2ff1fc",
     "brainrot_lines": [
-      "$27.02M/s | Chillin Chili"
+      "$27.02M/s | Chillin Chili",
+      "$130.52M/s | La Secret Combinasion"
     ],
-    "timestamp": "2026-03-24 23:39:47"
+    "timestamp": "2026-03-24 23:40:19"
   },
   {
     "channel": "❄️┃lowlights",
@@ -464,5 +466,45 @@
       "$160.47M/s | Cerberus"
     ],
     "timestamp": "2026-03-24 23:40:14"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "1a5f5160-5b35-4a4d-8b87-c1ce28bf7e07",
+    "brainrot_lines": [
+      "$32.80M/s | Esok Sekolah"
+    ],
+    "timestamp": "2026-03-24 23:40:16"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "f3594a0b-77eb-4a89-9a88-4f34d1cdced2",
+    "brainrot_lines": [
+      "$4.69M/s | Arcadopus"
+    ],
+    "timestamp": "2026-03-24 23:40:16"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "ccd24a3a-0e31-43f4-b2e8-1efe36dc1994",
+    "brainrot_lines": [
+      "$20.54M/s | DJ Panda"
+    ],
+    "timestamp": "2026-03-24 23:40:17"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "cf74a85e-ca06-4348-b673-5b89186188c9",
+    "brainrot_lines": [
+      "$1.41M/s | Los Cucarachas"
+    ],
+    "timestamp": "2026-03-24 23:40:18"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "021ea32e-0ad6-4f3f-b9ac-d24b6833603a",
+    "brainrot_lines": [
+      "$20.48M/s | DJ Panda"
+    ],
+    "timestamp": "2026-03-24 23:40:18"
   }
 ]
