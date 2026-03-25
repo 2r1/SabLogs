@@ -95,9 +95,10 @@
     "channel": "💧┃midlights",
     "server_id": "2b5bf22a-a1e5-4c7e-a72c-1ffbfab52000",
     "brainrot_lines": [
-      "$10.09M/s | La Grande Combinasion"
+      "$10.09M/s | La Grande Combinasion",
+      "$37.74M/s | Tang Tang Keletang"
     ],
-    "timestamp": "2026-03-24 23:38:36"
+    "timestamp": "2026-03-24 23:39:08"
   },
   {
     "channel": "❄️┃lowlights",
@@ -185,9 +186,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "deed7283-7267-4c91-9d09-b1307a3f3572",
     "brainrot_lines": [
-      "$1.91M/s | To to to Sahur"
+      "$1.91M/s | To to to Sahur",
+      "$14.72M/s | Swag Soda"
     ],
-    "timestamp": "2026-03-24 23:38:45"
+    "timestamp": "2026-03-24 23:39:09"
   },
   {
     "channel": "💧┃midlights",
@@ -372,5 +374,29 @@
       "$23.76M/s | Los 67"
     ],
     "timestamp": "2026-03-24 23:39:06"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "89906486-015d-41b1-b02a-24bd1803cb2d",
+    "brainrot_lines": [
+      "$6.14M/s | 67"
+    ],
+    "timestamp": "2026-03-24 23:39:08"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "ae360898-48b1-44ef-b471-31729e90f6b8",
+    "brainrot_lines": [
+      "$23.02M/s | Los Candies"
+    ],
+    "timestamp": "2026-03-24 23:39:09"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "2c139b1a-1c57-4549-ba1b-90d3c4bafc5f",
+    "brainrot_lines": [
+      "$128.37M/s | Cooki and Milki"
+    ],
+    "timestamp": "2026-03-24 23:39:10"
   }
 ]
