@@ -193,9 +193,10 @@
     "server_id": "14946fb9-419b-4176-9b87-8543c87349f0",
     "brainrot_lines": [
       "$2.84M/s | Horegini Boom",
-      "$3.50M/s | Chicleteira Bicicleteira"
+      "$3.50M/s | Chicleteira Bicicleteira",
+      "$1.22M/s | Bunnyman"
     ],
-    "timestamp": "2026-03-24 21:13:48"
+    "timestamp": "2026-03-24 21:14:46"
   },
   {
     "channel": "❄️┃lowlights",
@@ -459,5 +460,13 @@
       "$47.09M/s | Nacho Spyder"
     ],
     "timestamp": "2026-03-24 21:14:40"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "7e2d16c2-e31d-470c-8998-caaf4f334431",
+    "brainrot_lines": [
+      "$1.78M/s | Tung Tung Tung Sahur"
+    ],
+    "timestamp": "2026-03-24 21:14:44"
   }
 ]
