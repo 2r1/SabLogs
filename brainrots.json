@@ -425,9 +425,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "c01a9ed6-ae41-461b-852d-e06d57dcb967",
     "brainrot_lines": [
-      "$4.67M/s | Serafinna Medusella"
+      "$4.67M/s | Serafinna Medusella",
+      "$37.35M/s | Ketchuru and Musturu"
     ],
-    "timestamp": "2026-03-24 21:14:25"
+    "timestamp": "2026-03-24 21:14:47"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -476,5 +477,13 @@
       "$1.70M/s | Los Jobcitos"
     ],
     "timestamp": "2026-03-24 21:14:47"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "4b8f4ed6-a777-435f-9f19-67083f87098e",
+    "brainrot_lines": [
+      "$2.45M/s | Pot Hotspot"
+    ],
+    "timestamp": "2026-03-24 21:14:49"
   }
 ]
