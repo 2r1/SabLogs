@@ -141,9 +141,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "54e8235e-7aa8-403c-813c-0f918e8320d2",
     "brainrot_lines": [
-      "$2.57M/s | To to to Sahur"
+      "$2.57M/s | To to to Sahur",
+      "$3.62M/s | Cupid Hotspot"
     ],
-    "timestamp": "2026-03-24 21:23:18"
+    "timestamp": "2026-03-24 21:23:34"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -217,5 +218,13 @@
       "$6.29M/s | Serafinna Medusella"
     ],
     "timestamp": "2026-03-24 21:23:30"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "9dff9bcd-3852-4670-8b44-b665f52b82e1",
+    "brainrot_lines": [
+      "$17.27M/s | Los Spooky Combinasionas"
+    ],
+    "timestamp": "2026-03-24 21:23:32"
   }
 ]
