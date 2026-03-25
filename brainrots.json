@@ -895,9 +895,10 @@
     "server_id": "f980ee9b-6d5b-44f3-beb8-6a5b24f40b69",
     "brainrot_lines": [
       "$2.50M/s | Horegini Boom",
-      "$885.87K/s | Love Love Love Sahur"
+      "$885.87K/s | Love Love Love Sahur",
+      "$291.70M/s | Hydra Dragon Cannelloni"
     ],
-    "timestamp": "2026-03-24 21:11:56"
+    "timestamp": "2026-03-24 21:12:11"
   },
   {
     "channel": "❄️┃lowlights",
@@ -1010,5 +1011,13 @@
       "$871.96K/s | Graipuss Medussi"
     ],
     "timestamp": "2026-03-24 21:12:11"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "5fc825b5-8a9d-4507-ad04-db84f0fa17cb",
+    "brainrot_lines": [
+      "$2.20M/s | Pot Hotspot"
+    ],
+    "timestamp": "2026-03-24 21:12:13"
   }
 ]
