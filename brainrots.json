@@ -91,9 +91,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "a0a50879-bb44-46a4-89b1-778f4eef4b6d",
     "brainrot_lines": [
-      "$1.03M/s | Graipuss Medussi"
+      "$1.03M/s | Graipuss Medussi",
+      "$2.38M/s | Pirulitoita Bicicletera"
     ],
-    "timestamp": "2026-03-24 23:37:36"
+    "timestamp": "2026-03-24 23:37:50"
   },
   {
     "channel": "💧┃midlights",
@@ -239,5 +240,13 @@
       "$10.47M/s | Noo my Heart"
     ],
     "timestamp": "2026-03-24 23:37:48"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "d7e8d34f-7f11-422d-a962-0e51773d9f37",
+    "brainrot_lines": [
+      "$358.09M/s | Hydra Dragon Cannelloni"
+    ],
+    "timestamp": "2026-03-24 23:37:51"
   }
 ]
