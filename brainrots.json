@@ -671,9 +671,10 @@
     "server_id": "a9a55153-fcfd-4e92-8958-2dba1fd5bdcd",
     "brainrot_lines": [
       "$330.84M/s | Hydra Dragon Cannelloni",
-      "$2.68M/s | To to to Sahur"
+      "$2.68M/s | To to to Sahur",
+      "$1.21M/s | Tung Tung Tung Sahur"
     ],
-    "timestamp": "2026-03-24 21:21:20"
+    "timestamp": "2026-03-24 21:22:30"
   },
   {
     "channel": "❄️┃lowlights",
@@ -1008,5 +1009,13 @@
       "$139.94M/s | Capitano Moby"
     ],
     "timestamp": "2026-03-24 21:22:27"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "cb072b2d-d482-41d1-bcde-6ff7c1f10c39",
+    "brainrot_lines": [
+      "$27.18M/s | Los Candies"
+    ],
+    "timestamp": "2026-03-24 21:22:30"
   }
 ]
