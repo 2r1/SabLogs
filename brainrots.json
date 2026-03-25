@@ -46,9 +46,10 @@
     "server_id": "3ffcc75f-c80a-4ae7-94cf-1d5a25a3ae69",
     "brainrot_lines": [
       "$105.44M/s | La Casa Boo",
-      "$24.42M/s | Esok Sekolah"
+      "$24.42M/s | Esok Sekolah",
+      "$26.05M/s | Esok Sekolah"
     ],
-    "timestamp": "2026-03-24 23:39:49"
+    "timestamp": "2026-03-24 23:40:24"
   },
   {
     "channel": "💧┃midlights",
@@ -173,9 +174,10 @@
     "channel": "🎖️┃goatlights",
     "server_id": "7cb9c80b-04fd-41fe-a600-73950b4ff150",
     "brainrot_lines": [
-      "$148.82M/s | Popcuru and Fizzuru"
+      "$148.82M/s | Popcuru and Fizzuru",
+      "$235.37M/s | Dragon Cannelloni"
     ],
-    "timestamp": "2026-03-24 23:39:45"
+    "timestamp": "2026-03-24 23:40:22"
   },
   {
     "channel": "❄️┃lowlights",
@@ -506,5 +508,53 @@
       "$20.48M/s | DJ Panda"
     ],
     "timestamp": "2026-03-24 23:40:18"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "663f6d0f-1592-4f02-ba9d-a79c6ac36b55",
+    "brainrot_lines": [
+      "$1.03M/s | Graipuss Medussi"
+    ],
+    "timestamp": "2026-03-24 23:40:20"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "3bb05d14-c07f-4d79-90af-9013ae1d0b04",
+    "brainrot_lines": [
+      "$19.19M/s | Los Candies"
+    ],
+    "timestamp": "2026-03-24 23:40:21"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "56d85b9c-2cdf-4de2-ae2b-191563c0c8d6",
+    "brainrot_lines": [
+      "$5.48M/s | Los Mi Gatitos"
+    ],
+    "timestamp": "2026-03-24 23:40:22"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "f71fcbe6-061d-4e0f-9ffa-df289b0af9be",
+    "brainrot_lines": [
+      "$1.74M/s | Bunnyman"
+    ],
+    "timestamp": "2026-03-24 23:40:23"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "17c52220-6772-44b6-88c7-d4ef6da1dbc0",
+    "brainrot_lines": [
+      "$9.60M/s | La Grande Combinasion"
+    ],
+    "timestamp": "2026-03-24 23:40:23"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "eae48415-1233-482c-a76a-205bf6591414",
+    "brainrot_lines": [
+      "$1.53M/s | Los Jobcitos"
+    ],
+    "timestamp": "2026-03-24 23:40:24"
   }
 ]
