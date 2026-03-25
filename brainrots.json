@@ -3,9 +3,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "8387c218-9f50-418a-93f4-89d95217995c",
     "brainrot_lines": [
-      "$5.68M/s | Arcadopus"
+      "$5.68M/s | Arcadopus",
+      "$2.06M/s | Pot Hotspot"
     ],
-    "timestamp": "2026-03-24 23:22:02"
+    "timestamp": "2026-03-24 23:22:31"
   },
   {
     "channel": "❄️┃lowlights",
@@ -166,5 +167,29 @@
       "$19.90M/s | Los Mobilis"
     ],
     "timestamp": "2026-03-24 23:22:29"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "352ae343-f390-4208-8fc1-3d1280b6f359",
+    "brainrot_lines": [
+      "$21.99M/s | Los Mobilis"
+    ],
+    "timestamp": "2026-03-24 23:22:31"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "407ef5af-43a1-4067-a52f-1181b1a194f8",
+    "brainrot_lines": [
+      "$604.33M/s | Guerriro Digitale"
+    ],
+    "timestamp": "2026-03-24 23:22:32"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "56f26282-d3de-4210-bee8-7d0480b16d92",
+    "brainrot_lines": [
+      "$1.13M/s | Los Cucarachas"
+    ],
+    "timestamp": "2026-03-24 23:22:33"
   }
 ]
