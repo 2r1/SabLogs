@@ -328,9 +328,10 @@
     "channel": "🎖️┃goatlights",
     "server_id": "ecc34b93-45e8-4c76-848b-56dd5bf597ff",
     "brainrot_lines": [
-      "$149.91M/s | Rosey and Teddy"
+      "$149.91M/s | Rosey and Teddy",
+      "$3.68M/s | Chicleteirina Bicicleteirina"
     ],
-    "timestamp": "2026-03-24 21:13:55"
+    "timestamp": "2026-03-24 21:14:19"
   },
   {
     "channel": "❄️┃lowlights",
@@ -389,5 +390,13 @@
       "$3.24M/s | Burrito Bandito"
     ],
     "timestamp": "2026-03-24 21:14:17"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "60ad2681-0078-4106-b5dd-3320a46a4179",
+    "brainrot_lines": [
+      "$13.44M/s | Chicleteira Noelteira"
+    ],
+    "timestamp": "2026-03-24 21:14:18"
   }
 ]
