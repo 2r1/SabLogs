@@ -554,9 +554,10 @@
     "brainrot_lines": [
       "$4.08M/s | Luck Luck Luck Sahur",
       "$23.72M/s | Los Mobilis",
-      "$164.81M/s | Rosey and Teddy"
+      "$164.81M/s | Rosey and Teddy",
+      "$255.20M/s | Hydra Dragon Cannelloni"
     ],
-    "timestamp": "2026-03-24 21:11:35"
+    "timestamp": "2026-03-24 21:11:38"
   },
   {
     "channel": "❄️┃lowlights",
@@ -933,5 +934,13 @@
       "$8.11M/s | Los Burritos"
     ],
     "timestamp": "2026-03-24 21:11:33"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "9683601d-1384-496b-8cfd-2e6873ea240d",
+    "brainrot_lines": [
+      "$29.39M/s | La Taco Combinasion"
+    ],
+    "timestamp": "2026-03-24 21:11:37"
   }
 ]
