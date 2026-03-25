@@ -748,9 +748,10 @@
     "server_id": "5be54f2c-f410-4f78-953e-507e31de4fd0",
     "brainrot_lines": [
       "$1.76M/s | Los Jobcitos",
-      "$16.55M/s | Los Sweethearts"
+      "$16.55M/s | Los Sweethearts",
+      "$11.01M/s | Los 25"
     ],
-    "timestamp": "2026-03-24 21:12:26"
+    "timestamp": "2026-03-24 21:12:44"
   },
   {
     "channel": "💧┃midlights",
@@ -1079,5 +1080,13 @@
       "$38.84M/s | Ketchuru and Musturu"
     ],
     "timestamp": "2026-03-24 21:12:40"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "d12d6e93-737c-4af8-96f4-9a06d7c2da6e",
+    "brainrot_lines": [
+      "$22.52M/s | Money Money Puggy"
+    ],
+    "timestamp": "2026-03-24 21:12:45"
   }
 ]
