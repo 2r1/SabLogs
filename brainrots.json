@@ -113,9 +113,10 @@
     "server_id": "3db23607-bc5b-4471-9cc2-30c2fd25e9d3",
     "brainrot_lines": [
       "$56.69M/s | Spaghetti Tualetti",
-      "$3.29M/s | Brunito Marsito"
+      "$3.29M/s | Brunito Marsito",
+      "$1.29M/s | La Vacca Lepre Lepreino"
     ],
-    "timestamp": "2026-03-24 21:18:14"
+    "timestamp": "2026-03-24 21:19:17"
   },
   {
     "channel": "❄️┃lowlights",
@@ -391,5 +392,13 @@
       "$37.56M/s | La Lucky Grande"
     ],
     "timestamp": "2026-03-24 21:19:15"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "54ceac7c-ce5d-4008-91c8-37689a1666c7",
+    "brainrot_lines": [
+      "$21.98M/s | Bacuru and Egguru"
+    ],
+    "timestamp": "2026-03-24 21:19:17"
   }
 ]
