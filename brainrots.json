@@ -201,9 +201,10 @@
     "channel": "💧┃midlights",
     "server_id": "e4c38a24-632a-4db7-94d1-535c44721241",
     "brainrot_lines": [
-      "$17.43M/s | Cigno Fulgoro"
+      "$17.43M/s | Cigno Fulgoro",
+      "$21.38M/s | Money Money Puggy"
     ],
-    "timestamp": "2026-03-24 23:41:47"
+    "timestamp": "2026-03-24 23:42:12"
   },
   {
     "channel": "❄️┃lowlights",
@@ -406,5 +407,29 @@
       "$46.47M/s | Ketchuru and Musturu"
     ],
     "timestamp": "2026-03-24 23:42:10"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "2d8c3a14-b095-4689-bb2c-a1f60ca995d9",
+    "brainrot_lines": [
+      "$7.48M/s | 67"
+    ],
+    "timestamp": "2026-03-24 23:42:12"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "ca51158b-969e-4924-a634-e998f924fbbf",
+    "brainrot_lines": [
+      "$11.09M/s | Swag Soda"
+    ],
+    "timestamp": "2026-03-24 23:42:12"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "d432b59f-54b9-478c-b198-c0b9ebda9009",
+    "brainrot_lines": [
+      "$136.09M/s | Capitano Moby"
+    ],
+    "timestamp": "2026-03-24 23:42:13"
   }
 ]
