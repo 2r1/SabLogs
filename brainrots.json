@@ -203,9 +203,10 @@
     "server_id": "787b4f4c-d43d-4a96-9696-97d26d963191",
     "brainrot_lines": [
       "$3.70M/s | Ho Ho Ho Sahur",
-      "$5.13M/s | Arcadopus"
+      "$5.13M/s | Arcadopus",
+      "$8.70M/s | Los 25"
     ],
-    "timestamp": "2026-03-24 23:48:08"
+    "timestamp": "2026-03-24 23:48:21"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -369,5 +370,53 @@
       "$16.04M/s | Chicleteira Cupideira"
     ],
     "timestamp": "2026-03-24 23:48:16"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "a37315ae-e347-46a3-a1dc-69234dc43619",
+    "brainrot_lines": [
+      "$10.76M/s | Swag Soda"
+    ],
+    "timestamp": "2026-03-24 23:48:17"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "69692045-c63c-4f50-a7a7-7188b0be79c9",
+    "brainrot_lines": [
+      "$2.13M/s | Pirulitoita Bicicletera"
+    ],
+    "timestamp": "2026-03-24 23:48:17"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "3046c2b9-6494-4d39-914a-e42e2678b565",
+    "brainrot_lines": [
+      "$11.17M/s | Tacorillo Crocodillo"
+    ],
+    "timestamp": "2026-03-24 23:48:18"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "0cf4c84f-71f8-4398-91c1-fabf17477e14",
+    "brainrot_lines": [
+      "$206.88M/s | Dragon Cannelloni"
+    ],
+    "timestamp": "2026-03-24 23:48:19"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "5ef8588e-c2d6-4d7e-a48a-b5b14ce9c6b5",
+    "brainrot_lines": [
+      "$129.60M/s | Capitano Moby"
+    ],
+    "timestamp": "2026-03-24 23:48:20"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "b2df15a8-39de-4dee-bb06-950d16cc4f05",
+    "brainrot_lines": [
+      "$9.26M/s | Los Burritos"
+    ],
+    "timestamp": "2026-03-24 23:48:21"
   }
 ]
