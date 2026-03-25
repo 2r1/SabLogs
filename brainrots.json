@@ -197,9 +197,10 @@
     "channel": "💧┃midlights",
     "server_id": "d8acbe9c-d384-4564-b0dc-7b6eeb4f4dac",
     "brainrot_lines": [
-      "$34.13M/s | Esok Sekolah"
+      "$34.13M/s | Esok Sekolah",
+      "$17.54M/s | Los Combinasionas"
     ],
-    "timestamp": "2026-03-24 23:36:49"
+    "timestamp": "2026-03-24 23:37:01"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -286,9 +287,10 @@
     "channel": "💧┃midlights",
     "server_id": "b64747f3-6917-4885-8933-fa5adbd9cabc",
     "brainrot_lines": [
-      "$11.76M/s | La Grande Combinasion"
+      "$11.76M/s | La Grande Combinasion",
+      "$3.43M/s | Burrito Bandito"
     ],
-    "timestamp": "2026-03-24 23:36:56"
+    "timestamp": "2026-03-24 23:37:01"
   },
   {
     "channel": "❄️┃lowlights",
@@ -305,5 +307,29 @@
       "$379.25M/s | Griffin"
     ],
     "timestamp": "2026-03-24 23:36:57"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "4cbfc6a1-8c9c-49e6-b055-ff477142d78c",
+    "brainrot_lines": [
+      "$2.44M/s | Santa Hotspot"
+    ],
+    "timestamp": "2026-03-24 23:36:59"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "89906486-015d-41b1-b02a-24bd1803cb2d",
+    "brainrot_lines": [
+      "$27.45M/s | Mieteteira Bicicleteira"
+    ],
+    "timestamp": "2026-03-24 23:36:59"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "82f0a8dc-b439-405f-8964-53e0ec4fe763",
+    "brainrot_lines": [
+      "$18.55M/s | Los Candies"
+    ],
+    "timestamp": "2026-03-24 23:36:59"
   }
 ]
