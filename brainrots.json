@@ -861,9 +861,10 @@
     "server_id": "63412992-5de9-49ce-8336-614df634ebfd",
     "brainrot_lines": [
       "$1.04M/s | Graipuss Medussi",
-      "$459.68M/s | Griffin"
+      "$459.68M/s | Griffin",
+      "$2.91M/s | Pot Hotspot"
     ],
-    "timestamp": "2026-03-24 21:22:02"
+    "timestamp": "2026-03-24 21:22:16"
   },
   {
     "channel": "💧┃midlights",
@@ -968,5 +969,13 @@
       "$1.43M/s | Los Cucarachas"
     ],
     "timestamp": "2026-03-24 21:22:13"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "54e8235e-7aa8-403c-813c-0f918e8320d2",
+    "brainrot_lines": [
+      "$14.32M/s | DJ Panda"
+    ],
+    "timestamp": "2026-03-24 21:22:15"
   }
 ]
