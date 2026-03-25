@@ -222,9 +222,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "efe27db1-a49c-48e1-99e0-cf6e08e330b9",
     "brainrot_lines": [
-      "$4M/s | Chill Puppy"
+      "$4M/s | Chill Puppy",
+      "$3.73M/s | Chicleteirina Bicicleteirina"
     ],
-    "timestamp": "2026-03-24 23:42:53"
+    "timestamp": "2026-03-24 23:42:59"
   },
   {
     "channel": "💧┃midlights",
@@ -273,5 +274,13 @@
       "$28.75M/s | Bacuru and Egguru"
     ],
     "timestamp": "2026-03-24 23:42:57"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "02f156af-28d2-4a38-85f4-4540d9e14167",
+    "brainrot_lines": [
+      "$20M/s | Money Money Puggy"
+    ],
+    "timestamp": "2026-03-24 23:43:02"
   }
 ]
