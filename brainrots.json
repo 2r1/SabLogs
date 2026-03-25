@@ -870,9 +870,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "49078dc1-7faf-4ad3-87ce-682cdd3d9294",
     "brainrot_lines": [
-      "$4.82M/s | Los Nooo My Hotspotsitos"
+      "$4.82M/s | Los Nooo My Hotspotsitos",
+      "$8.63M/s | Los Burritos"
     ],
-    "timestamp": "2026-03-24 21:26:32"
+    "timestamp": "2026-03-24 21:26:44"
   },
   {
     "channel": "❄️┃lowlights",
@@ -905,5 +906,13 @@
       "$21.08M/s | Money Money Puggy"
     ],
     "timestamp": "2026-03-24 21:26:43"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "bb6c264a-e4d2-42e9-b0c3-a00ad83b0168",
+    "brainrot_lines": [
+      "$1.27M/s | Los Cucarachas"
+    ],
+    "timestamp": "2026-03-24 21:26:45"
   }
 ]
