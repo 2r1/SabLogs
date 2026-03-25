@@ -709,9 +709,10 @@
     "server_id": "53598b32-7628-4789-9754-306ce6814df5",
     "brainrot_lines": [
       "$13.63M/s | Los Sweethearts",
-      "$1.55M/s | Los Jobcitos"
+      "$1.55M/s | Los Jobcitos",
+      "$1.11M/s | Los Cucarachas"
     ],
-    "timestamp": "2026-03-24 21:15:50"
+    "timestamp": "2026-03-24 21:17:09"
   },
   {
     "channel": "❄️┃lowlights",
@@ -972,5 +973,13 @@
       "$3.40M/s | Ho Ho Ho Sahur"
     ],
     "timestamp": "2026-03-24 21:17:04"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "867d5e26-97d7-4983-b6c6-636461d52360",
+    "brainrot_lines": [
+      "$322.28M/s | Griffin"
+    ],
+    "timestamp": "2026-03-24 21:17:06"
   }
 ]
