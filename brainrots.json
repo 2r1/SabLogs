@@ -37,9 +37,10 @@
     "server_id": "f51e27f3-064d-4746-8e01-3dd0fdc6b3fe",
     "brainrot_lines": [
       "$3.16M/s | Naughty Naughty",
-      "$3.53M/s | Luck Luck Luck Sahur"
+      "$3.53M/s | Luck Luck Luck Sahur",
+      "$25.73M/s | Chipso and Queso"
     ],
-    "timestamp": "2026-03-24 21:14:23"
+    "timestamp": "2026-03-24 21:14:32"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -427,5 +428,13 @@
       "$68.82M/s | La Ginger Sekolah"
     ],
     "timestamp": "2026-03-24 21:14:30"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "7f68c5d3-f5d0-4561-af8c-b2693c36a025",
+    "brainrot_lines": [
+      "$8.69M/s | Los Burritos"
+    ],
+    "timestamp": "2026-03-24 21:14:31"
   }
 ]
