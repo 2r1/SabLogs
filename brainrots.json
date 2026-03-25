@@ -935,9 +935,10 @@
     "server_id": "094d1240-b25e-4aa0-9878-91fafbdcbd0c",
     "brainrot_lines": [
       "$1.05M/s | Please my Present",
-      "$7.39M/s | 67"
+      "$7.39M/s | 67",
+      "$22.10M/s | Los Candies"
     ],
-    "timestamp": "2026-03-24 21:16:46"
+    "timestamp": "2026-03-24 21:17:02"
   },
   {
     "channel": "💧┃midlights",
@@ -962,5 +963,13 @@
       "$3.07M/s | Ho Ho Ho Sahur"
     ],
     "timestamp": "2026-03-24 21:16:51"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "fd6db13b-326e-4ff5-8be6-c6beb468a13b",
+    "brainrot_lines": [
+      "$3.40M/s | Ho Ho Ho Sahur"
+    ],
+    "timestamp": "2026-03-24 21:17:04"
   }
 ]
