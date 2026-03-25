@@ -251,9 +251,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "4c488cb0-48b0-4a79-93a2-54f291aaaff9",
     "brainrot_lines": [
-      "$2.94M/s | Pirulitoita Bicicletera"
+      "$2.94M/s | Pirulitoita Bicicletera",
+      "$178.36M/s | Popcuru and Fizzuru"
     ],
-    "timestamp": "2026-03-24 21:28:45"
+    "timestamp": "2026-03-24 21:28:53"
   },
   {
     "channel": "❄️┃lowlights",
@@ -278,5 +279,13 @@
       "$3.78M/s | Granny"
     ],
     "timestamp": "2026-03-24 21:28:52"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "168aceeb-e7de-4a80-9288-8c0e1776b05f",
+    "brainrot_lines": [
+      "$4.14M/s | Cupid Hotspot"
+    ],
+    "timestamp": "2026-03-24 21:28:55"
   }
 ]
