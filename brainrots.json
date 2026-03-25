@@ -105,9 +105,10 @@
     "server_id": "1108bb83-f184-418b-9527-6dfcdb41a4d8",
     "brainrot_lines": [
       "$17.22M/s | Los Sweethearts",
-      "$14.87M/s | Los Combinasionas"
+      "$14.87M/s | Los Combinasionas",
+      "$7.80M/s | Los Chicleteiras"
     ],
-    "timestamp": "2026-03-24 21:08:18"
+    "timestamp": "2026-03-24 21:09:52"
   },
   {
     "channel": "❄️┃lowlights",
@@ -487,5 +488,13 @@
       "$20.87M/s | DJ Panda"
     ],
     "timestamp": "2026-03-24 21:09:49"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "bb6c742e-12b8-4f8d-9ba8-76241d284f5b",
+    "brainrot_lines": [
+      "$18.32M/s | Las Sis"
+    ],
+    "timestamp": "2026-03-24 21:09:51"
   }
 ]
