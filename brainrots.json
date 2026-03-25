@@ -753,9 +753,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "d0464b8e-7b78-4687-8d10-36db31863349",
     "brainrot_lines": [
-      "$6.54M/s | 67"
+      "$6.54M/s | 67",
+      "$108.32M/s | Fragrama and Chocrama"
     ],
-    "timestamp": "2026-03-24 21:20:53"
+    "timestamp": "2026-03-24 21:21:46"
   },
   {
     "channel": "❄️┃lowlights",
@@ -888,5 +889,13 @@
       "$6.14M/s | Los Mi Gatitos"
     ],
     "timestamp": "2026-03-24 21:21:45"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "d7c65ae2-3cab-45b6-9790-909988e1dd81",
+    "brainrot_lines": [
+      "$2.73M/s | Pot Hotspot"
+    ],
+    "timestamp": "2026-03-24 21:21:50"
   }
 ]
