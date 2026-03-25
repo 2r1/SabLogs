@@ -379,9 +379,10 @@
     "server_id": "f1c3107a-4f8e-4bc4-b837-c20dc0438678",
     "brainrot_lines": [
       "$3.90M/s | Chicleteirina Bicicleteirina",
-      "$2.55M/s | Pot Hotspot"
+      "$2.55M/s | Pot Hotspot",
+      "$24.19M/s | Money Money Puggy"
     ],
-    "timestamp": "2026-03-24 21:29:23"
+    "timestamp": "2026-03-24 21:29:55"
   },
   {
     "channel": "💧┃midlights",
@@ -479,5 +480,13 @@
       "$14.58M/s | Las Sis"
     ],
     "timestamp": "2026-03-24 21:29:48"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "dac5514a-0fea-4a01-9b56-de822e341b1b",
+    "brainrot_lines": [
+      "$3.04M/s | Quesadilla Crocodila"
+    ],
+    "timestamp": "2026-03-24 21:29:57"
   }
 ]
