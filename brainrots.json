@@ -79,9 +79,10 @@
     "server_id": "1af74581-2f05-4001-bb97-9cd95d67bcb0",
     "brainrot_lines": [
       "$13.26M/s | Chicleteira Noelteira",
-      "$1.49M/s | Tung Tung Tung Sahur"
+      "$1.49M/s | Tung Tung Tung Sahur",
+      "$4.10M/s | Cupid Hotspot"
     ],
-    "timestamp": "2026-03-24 21:09:05"
+    "timestamp": "2026-03-24 21:09:27"
   },
   {
     "channel": "❄️┃lowlights",
@@ -398,5 +399,13 @@
       "$2.69M/s | Santa Hotspot"
     ],
     "timestamp": "2026-03-24 21:09:22"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "64299f66-917f-4faf-b4fb-69ddf2ade5b7",
+    "brainrot_lines": [
+      "$28.09M/s | Chipso and Queso"
+    ],
+    "timestamp": "2026-03-24 21:09:25"
   }
 ]
