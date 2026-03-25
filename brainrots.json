@@ -36,9 +36,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "7435ca86-6d7f-425d-a0bd-b256f86f0da3",
     "brainrot_lines": [
-      "$3.38M/s | Luck Luck Luck Sahur"
+      "$3.38M/s | Luck Luck Luck Sahur",
+      "$5.10M/s | Serafinna Medusella"
     ],
-    "timestamp": "2026-03-24 21:22:57"
+    "timestamp": "2026-03-24 21:24:32"
   },
   {
     "channel": "💧┃midlights",
@@ -408,5 +409,13 @@
       "$1.73M/s | Telemorte"
     ],
     "timestamp": "2026-03-24 21:24:21"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "41f877d9-d0c5-446b-8ea6-dd6b7c311382",
+    "brainrot_lines": [
+      "$19.51M/s | Las Sis"
+    ],
+    "timestamp": "2026-03-24 21:24:30"
   }
 ]
