@@ -133,9 +133,10 @@
     "channel": "💧┃midlights",
     "server_id": "6687d808-0b34-4a46-a6a6-7bd8cc3b33e7",
     "brainrot_lines": [
-      "$21.04M/s | Cigno Fulgoro"
+      "$21.04M/s | Cigno Fulgoro",
+      "$68.69M/s | Spaghetti Tualetti"
     ],
-    "timestamp": "2026-03-24 23:42:41"
+    "timestamp": "2026-03-24 23:42:58"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -248,5 +249,29 @@
       "$118.72M/s | Fragrama and Chocrama"
     ],
     "timestamp": "2026-03-24 23:42:55"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "1a5f5160-5b35-4a4d-8b87-c1ce28bf7e07",
+    "brainrot_lines": [
+      "$242.70M/s | Dragon Cannelloni"
+    ],
+    "timestamp": "2026-03-24 23:42:56"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "6e4f3a98-c8dc-42fb-86cb-a1a3b2c8caa9",
+    "brainrot_lines": [
+      "$1.67M/s | Tung Tung Tung Sahur"
+    ],
+    "timestamp": "2026-03-24 23:42:56"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "a07d86e7-fee6-4935-beda-d038a8c29eb9",
+    "brainrot_lines": [
+      "$28.75M/s | Bacuru and Egguru"
+    ],
+    "timestamp": "2026-03-24 23:42:57"
   }
 ]
