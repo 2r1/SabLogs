@@ -814,9 +814,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "b1b00c87-b354-4578-acbf-dadb14d026cd",
     "brainrot_lines": [
-      "$6.53M/s | Los Chicleteiras"
+      "$6.53M/s | Los Chicleteiras",
+      "$14.16M/s | Tacorita Bicicleta"
     ],
-    "timestamp": "2026-03-24 21:21:06"
+    "timestamp": "2026-03-24 21:22:01"
   },
   {
     "channel": "❄️┃lowlights",
@@ -929,6 +930,14 @@
     "server_id": "5536f1b1-eca2-4de2-9070-473d79170a35",
     "brainrot_lines": [
       "$1.58M/s | Los Jobcitos"
+    ],
+    "timestamp": "2026-03-24 21:21:58"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "d61f3c19-ec6a-42d8-846d-081d1bbaf9cb",
+    "brainrot_lines": [
+      "$11.51M/s | Chimino"
     ],
     "timestamp": "2026-03-24 21:21:58"
   }
