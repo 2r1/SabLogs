@@ -159,9 +159,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "5974af32-b9f4-4133-8f77-b7d9fcf94f0e",
     "brainrot_lines": [
-      "$3.48M/s | Chill Puppy"
+      "$3.48M/s | Chill Puppy",
+      "$66.75M/s | Spooky and Pumpky"
     ],
-    "timestamp": "2026-03-24 21:18:18"
+    "timestamp": "2026-03-24 21:18:52"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -302,5 +303,13 @@
       "$42.11M/s | La Lucky Grande"
     ],
     "timestamp": "2026-03-24 21:18:50"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "38912af9-8e4e-4c29-a8a9-ac50362e1813",
+    "brainrot_lines": [
+      "$23.79M/s | Los Candies"
+    ],
+    "timestamp": "2026-03-24 21:18:53"
   }
 ]
