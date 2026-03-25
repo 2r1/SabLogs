@@ -253,9 +253,10 @@
     "server_id": "df1904bb-54fa-4fe0-bf69-4cb6832b171a",
     "brainrot_lines": [
       "$13.15M/s | Swag Soda",
-      "$53.74M/s | Lavadorito Spinito"
+      "$53.74M/s | Lavadorito Spinito",
+      "$40.34M/s | Lavadorito Spinito"
     ],
-    "timestamp": "2026-03-24 23:48:02"
+    "timestamp": "2026-03-24 23:48:13"
   },
   {
     "channel": "❄️┃lowlights",
@@ -312,5 +313,37 @@
       "$3.76M/s | Cupid Hotspot"
     ],
     "timestamp": "2026-03-24 23:48:06"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "21f3f542-954b-409d-a95c-3c8a3e9b45a7",
+    "brainrot_lines": [
+      "$4.31M/s | Arcadopus"
+    ],
+    "timestamp": "2026-03-24 23:48:10"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "41609726-df03-4a10-8008-499e89737233",
+    "brainrot_lines": [
+      "$12.54M/s | Tacorillo Crocodillo"
+    ],
+    "timestamp": "2026-03-24 23:48:11"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "9cfc56c4-0bdb-4224-9d7a-f0ca7208146d",
+    "brainrot_lines": [
+      "$11.48M/s | Los 25"
+    ],
+    "timestamp": "2026-03-24 23:48:11"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "1460236c-381d-4b62-bca2-cb26eaa8b3da",
+    "brainrot_lines": [
+      "$6.86M/s | Los Mi Gatitos"
+    ],
+    "timestamp": "2026-03-24 23:48:12"
   }
 ]
