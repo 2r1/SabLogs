@@ -27,9 +27,10 @@
     "channel": "💧┃midlights",
     "server_id": "e212167f-d7a8-4627-934c-c11a98fe18c3",
     "brainrot_lines": [
-      "$14.99M/s | DJ Panda"
+      "$14.99M/s | DJ Panda",
+      "$28.12M/s | Chipso and Queso"
     ],
-    "timestamp": "2026-03-24 23:39:31"
+    "timestamp": "2026-03-24 23:39:51"
   },
   {
     "channel": "💧┃midlights",
@@ -116,9 +117,10 @@
     "channel": "💧┃midlights",
     "server_id": "79f8b6f0-8991-4198-9d18-9b5073f401fc",
     "brainrot_lines": [
-      "$48.35M/s | Lavadorito Spinito"
+      "$48.35M/s | Lavadorito Spinito",
+      "$47.08M/s | La Lucky Grande"
     ],
-    "timestamp": "2026-03-24 23:39:40"
+    "timestamp": "2026-03-24 23:39:50"
   },
   {
     "channel": "❄️┃lowlights",
@@ -215,5 +217,21 @@
       "$2.51M/s | Santa Hotspot"
     ],
     "timestamp": "2026-03-24 23:39:48"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "2414f6de-bb7e-430f-abb6-f334229dfac1",
+    "brainrot_lines": [
+      "$3.46M/s | Luck Luck Luck Sahur"
+    ],
+    "timestamp": "2026-03-24 23:39:50"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "486ced65-3a11-4931-b5f3-58cb0d3b3c76",
+    "brainrot_lines": [
+      "$3.83M/s | Chicleteirina Bicicleteirina"
+    ],
+    "timestamp": "2026-03-24 23:39:51"
   }
 ]
