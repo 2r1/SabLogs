@@ -312,9 +312,10 @@
     "channel": "💧┃midlights",
     "server_id": "5f427969-6ea4-4177-b722-89bd20963d4a",
     "brainrot_lines": [
-      "$12.46M/s | Los Combinasionas"
+      "$12.46M/s | Los Combinasionas",
+      "$2.36M/s | Horegini Boom"
     ],
-    "timestamp": "2026-03-24 21:08:55"
+    "timestamp": "2026-03-24 21:09:19"
   },
   {
     "channel": "❄️┃lowlights",
@@ -364,5 +365,13 @@
       "$3.49M/s | Eid Eid Eid Sahur"
     ],
     "timestamp": "2026-03-24 21:09:16"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "cf47ad01-5c59-434c-aa72-cc3918249270",
+    "brainrot_lines": [
+      "$33.47M/s | Tang Tang Keletang"
+    ],
+    "timestamp": "2026-03-24 21:09:18"
   }
 ]
