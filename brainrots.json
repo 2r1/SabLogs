@@ -43,9 +43,10 @@
     "channel": "🎖️┃goatlights",
     "server_id": "3ffcc75f-c80a-4ae7-94cf-1d5a25a3ae69",
     "brainrot_lines": [
-      "$105.44M/s | La Casa Boo"
+      "$105.44M/s | La Casa Boo",
+      "$24.42M/s | Esok Sekolah"
     ],
-    "timestamp": "2026-03-24 23:39:32"
+    "timestamp": "2026-03-24 23:39:49"
   },
   {
     "channel": "💧┃midlights",
@@ -142,5 +143,77 @@
       "$972.61K/s | Graipuss Medussi"
     ],
     "timestamp": "2026-03-24 23:39:43"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "d7380901-8e42-45ee-a48a-3e7f2d963210",
+    "brainrot_lines": [
+      "$18.53M/s | DJ Panda"
+    ],
+    "timestamp": "2026-03-24 23:39:43"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "61eecc87-f8b5-4e26-9356-2e9b767969e3",
+    "brainrot_lines": [
+      "$156.61M/s | Burguro and Fryuro"
+    ],
+    "timestamp": "2026-03-24 23:39:42"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "7cb9c80b-04fd-41fe-a600-73950b4ff150",
+    "brainrot_lines": [
+      "$148.82M/s | Popcuru and Fizzuru"
+    ],
+    "timestamp": "2026-03-24 23:39:45"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "0edf151e-9990-4160-9da0-1ec6055a9753",
+    "brainrot_lines": [
+      "$4.86M/s | Los Quesadillas"
+    ],
+    "timestamp": "2026-03-24 23:39:45"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "8f69c585-4cad-4cb4-a681-f1d7d11379fe",
+    "brainrot_lines": [
+      "$8.62M/s | Los Burritos"
+    ],
+    "timestamp": "2026-03-24 23:39:46"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "e5ac1cc4-5e4c-4f87-848e-d1d6372562cf",
+    "brainrot_lines": [
+      "$502.23M/s | Guerriro Digitale"
+    ],
+    "timestamp": "2026-03-24 23:39:47"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "4fdd83bc-7fd6-4c2f-9d75-cd8174eb9b3b",
+    "brainrot_lines": [
+      "$20.39M/s | Chillin Chili"
+    ],
+    "timestamp": "2026-03-24 23:39:46"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "37b8e0ab-980f-4a72-9067-7627ee2ff1fc",
+    "brainrot_lines": [
+      "$27.02M/s | Chillin Chili"
+    ],
+    "timestamp": "2026-03-24 23:39:47"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "d3c0b23e-b8ec-42a3-b59e-0104f392ca77",
+    "brainrot_lines": [
+      "$2.51M/s | Santa Hotspot"
+    ],
+    "timestamp": "2026-03-24 23:39:48"
   }
 ]
