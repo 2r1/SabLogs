@@ -244,9 +244,10 @@
     "server_id": "e93acb65-e964-4087-8782-119b22925d5e",
     "brainrot_lines": [
       "$12.91M/s | Chicleteira Noelteira",
-      "$6.68M/s | Noo my Present"
+      "$6.68M/s | Noo my Present",
+      "$22.23M/s | Money Money Puggy"
     ],
-    "timestamp": "2026-03-24 21:19:19"
+    "timestamp": "2026-03-24 21:19:42"
   },
   {
     "channel": "❄️┃lowlights",
@@ -434,5 +435,13 @@
       "$21.78M/s | Bacuru and Egguru"
     ],
     "timestamp": "2026-03-24 21:19:32"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "35731fc0-c1a2-4784-8af0-7142f2b0e0df",
+    "brainrot_lines": [
+      "$6.33M/s | Los Chicleteiras"
+    ],
+    "timestamp": "2026-03-24 21:19:42"
   }
 ]
