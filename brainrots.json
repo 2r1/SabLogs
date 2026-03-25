@@ -119,9 +119,10 @@
     "channel": "🎖️┃goatlights",
     "server_id": "de890b7f-9b3f-49bc-976c-c501d4cffcbb",
     "brainrot_lines": [
-      "$117.12M/s | Fragrama and Chocrama"
+      "$117.12M/s | Fragrama and Chocrama",
+      "$7.13M/s | Los Chicleteiras"
     ],
-    "timestamp": "2026-03-24 23:44:40"
+    "timestamp": "2026-03-24 23:45:09"
   },
   {
     "channel": "❄️┃lowlights",
@@ -303,9 +304,10 @@
     "channel": "💧┃midlights",
     "server_id": "0ca43b0e-fed6-48c7-83b1-3f04109377ee",
     "brainrot_lines": [
-      "$24.48M/s | Mieteteira Bicicleteira"
+      "$24.48M/s | Mieteteira Bicicleteira",
+      "$18.31M/s | Spinny Hammy"
     ],
-    "timestamp": "2026-03-24 23:44:59"
+    "timestamp": "2026-03-24 23:45:09"
   },
   {
     "channel": "❄️┃lowlights",
@@ -354,5 +356,29 @@
       "$18.57M/s | Money Money Puggy"
     ],
     "timestamp": "2026-03-24 23:45:05"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "e4c38a24-632a-4db7-94d1-535c44721241",
+    "brainrot_lines": [
+      "$3.16M/s | Quesadilla Crocodila"
+    ],
+    "timestamp": "2026-03-24 23:45:06"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "1c3387ca-5e6d-46f9-84d8-6aa069a1791b",
+    "brainrot_lines": [
+      "$26.71M/s | Los Puggies"
+    ],
+    "timestamp": "2026-03-24 23:45:07"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "1572c292-824d-493f-a3ef-d4403f637976",
+    "brainrot_lines": [
+      "$252.11M/s | Dragon Cannelloni"
+    ],
+    "timestamp": "2026-03-24 23:45:07"
   }
 ]
