@@ -558,9 +558,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "f5bb2d3a-9b3d-43b6-8d1c-aca9d5645ec3",
     "brainrot_lines": [
-      "$8.61M/s | Los Burritos"
+      "$8.61M/s | Los Burritos",
+      "$3.46M/s | Quesadilla Crocodila"
     ],
-    "timestamp": "2026-03-24 21:30:09"
+    "timestamp": "2026-03-24 21:30:15"
   },
   {
     "channel": "💧┃midlights",
@@ -577,5 +578,13 @@
       "$4.03M/s | Cupid Hotspot"
     ],
     "timestamp": "2026-03-24 21:30:14"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "e115168a-630e-432e-b883-b20ea034fbe2",
+    "brainrot_lines": [
+      "$17.60M/s | Cigno Fulgoro"
+    ],
+    "timestamp": "2026-03-24 21:30:16"
   }
 ]
