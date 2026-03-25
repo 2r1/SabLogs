@@ -132,9 +132,10 @@
     "server_id": "3228aae0-4364-49f8-8baf-ffd325e1252c",
     "brainrot_lines": [
       "$39.80M/s | La Lucky Grande",
-      "$28.91M/s | Tang Tang Keletang"
+      "$28.91M/s | Tang Tang Keletang",
+      "$29.53M/s | Los Puggies"
     ],
-    "timestamp": "2026-03-24 23:47:01"
+    "timestamp": "2026-03-24 23:47:21"
   },
   {
     "channel": "❄️┃lowlights",
@@ -427,5 +428,45 @@
       "$399.52M/s | Griffin"
     ],
     "timestamp": "2026-03-24 23:47:18"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "b2df15a8-39de-4dee-bb06-950d16cc4f05",
+    "brainrot_lines": [
+      "$2.89M/s | Quesadilla Crocodila"
+    ],
+    "timestamp": "2026-03-24 23:47:20"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "21f3f542-954b-409d-a95c-3c8a3e9b45a7",
+    "brainrot_lines": [
+      "$34.58M/s | La Taco Combinasion"
+    ],
+    "timestamp": "2026-03-24 23:47:20"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "2524e52d-2718-442f-a856-6325b4a63249",
+    "brainrot_lines": [
+      "$4.24M/s | Luck Luck Luck Sahur"
+    ],
+    "timestamp": "2026-03-24 23:47:22"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "92fead46-0852-4b9e-8ef3-215943fa6480",
+    "brainrot_lines": [
+      "$13.68M/s | Tacorillo Crocodillo"
+    ],
+    "timestamp": "2026-03-24 23:47:22"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "0b5d0718-4071-4ebd-b80b-bf5ce39b72b7",
+    "brainrot_lines": [
+      "$13.40M/s | Swag Soda"
+    ],
+    "timestamp": "2026-03-24 23:47:22"
   }
 ]
