@@ -170,9 +170,10 @@
     "channel": "🎖️┃goatlights",
     "server_id": "732237f3-dca8-4748-8248-fe0f1935b180",
     "brainrot_lines": [
-      "$233.49M/s | Dragon Cannelloni"
+      "$233.49M/s | Dragon Cannelloni",
+      "$6.56M/s | Noo my Present"
     ],
-    "timestamp": "2026-03-24 21:18:19"
+    "timestamp": "2026-03-24 21:19:06"
   },
   {
     "channel": "❄️┃lowlights",
@@ -347,5 +348,13 @@
       "$12.30M/s | Chicleteira Noelteira"
     ],
     "timestamp": "2026-03-24 21:19:04"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "5bc8a560-a6fb-47ca-bf10-a7072bb77297",
+    "brainrot_lines": [
+      "$12.94M/s | Los Combinasionas"
+    ],
+    "timestamp": "2026-03-24 21:19:06"
   }
 ]
