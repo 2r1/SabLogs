@@ -3,9 +3,10 @@
     "channel": "🎖️┃goatlights",
     "server_id": "922a42fd-70fc-4661-8aa3-d85f5db553ad",
     "brainrot_lines": [
-      "$146.20M/s | Capitano Moby"
+      "$146.20M/s | Capitano Moby",
+      "$4.04M/s | Arcadopus"
     ],
-    "timestamp": "2026-03-24 23:46:30"
+    "timestamp": "2026-03-24 23:46:49"
   },
   {
     "channel": "❄️┃lowlights",
@@ -168,5 +169,45 @@
       "$186.88M/s | Celestial Pegasus"
     ],
     "timestamp": "2026-03-24 23:46:47"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "0a7b1a23-43e5-41e3-a98d-167a89496721",
+    "brainrot_lines": [
+      "$2.86M/s | Horegini Boom"
+    ],
+    "timestamp": "2026-03-24 23:46:49"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "b50d4f78-e075-42a9-8624-10bfcfccab5d",
+    "brainrot_lines": [
+      "$18.27M/s | Las Sis"
+    ],
+    "timestamp": "2026-03-24 23:46:49"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "06739704-995d-4b70-8cdb-9f9d5e0eda90",
+    "brainrot_lines": [
+      "$146.94M/s | Capitano Moby"
+    ],
+    "timestamp": "2026-03-24 23:46:51"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "a9787292-2727-4317-973c-20f816d9b5c8",
+    "brainrot_lines": [
+      "$40.89M/s | Ketupat Kepat"
+    ],
+    "timestamp": "2026-03-24 23:46:51"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "3a4e32cd-720c-4f7c-b27e-7493371ddd08",
+    "brainrot_lines": [
+      "$1.72M/s | Telemorte"
+    ],
+    "timestamp": "2026-03-24 23:46:51"
   }
 ]
