@@ -116,9 +116,10 @@
     "channel": "💧┃midlights",
     "server_id": "726c8f45-6fe2-45e0-b010-960832a3bbc0",
     "brainrot_lines": [
-      "$10.03M/s | La Grande Combinasion"
+      "$10.03M/s | La Grande Combinasion",
+      "$20.15M/s | Los Mobilis"
     ],
-    "timestamp": "2026-03-24 23:37:38"
+    "timestamp": "2026-03-24 23:37:56"
   },
   {
     "channel": "❄️┃lowlights",
@@ -221,9 +222,10 @@
     "channel": "❄️┃lowlights",
     "server_id": "a9c113a2-09ee-46f9-9122-9af085400e64",
     "brainrot_lines": [
-      "$2.53M/s | 25"
+      "$2.53M/s | 25",
+      "$7.95M/s | Los Chicleteiras"
     ],
-    "timestamp": "2026-03-24 23:37:47"
+    "timestamp": "2026-03-24 23:37:53"
   },
   {
     "channel": "❄️┃lowlights",
@@ -248,5 +250,37 @@
       "$358.09M/s | Hydra Dragon Cannelloni"
     ],
     "timestamp": "2026-03-24 23:37:51"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "00a9da26-60fe-45dc-a4cf-980f96fe1f52",
+    "brainrot_lines": [
+      "$13.86M/s | Chicleteira Noelteira"
+    ],
+    "timestamp": "2026-03-24 23:37:54"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "b64747f3-6917-4885-8933-fa5adbd9cabc",
+    "brainrot_lines": [
+      "$33M/s | La Jolly Grande"
+    ],
+    "timestamp": "2026-03-24 23:37:52"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "4d09fdde-810d-4564-ada0-a77d4fcdbf6a",
+    "brainrot_lines": [
+      "$159.08M/s | Cooki and Milki"
+    ],
+    "timestamp": "2026-03-24 23:37:54"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "663f6d0f-1592-4f02-ba9d-a79c6ac36b55",
+    "brainrot_lines": [
+      "$1.34M/s | Los Jobcitos"
+    ],
+    "timestamp": "2026-03-24 23:37:56"
   }
 ]
