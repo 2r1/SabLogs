@@ -84,17 +84,19 @@
     "channel": "💧┃midlights",
     "server_id": "f079b4fc-b63f-44b1-8ee1-0730ed37ec52",
     "brainrot_lines": [
-      "$20.68M/s | DJ Panda"
+      "$20.68M/s | DJ Panda",
+      "$33.27M/s | Ketupat Kepat"
     ],
-    "timestamp": "2026-03-24 23:47:38"
+    "timestamp": "2026-03-24 23:47:50"
   },
   {
     "channel": "🎖️┃goatlights",
     "server_id": "64db5cfd-ad16-415d-b607-12f7071ecf56",
     "brainrot_lines": [
-      "$169.35M/s | Burguro and Fryuro"
+      "$169.35M/s | Burguro and Fryuro",
+      "$9.47M/s | Los 25"
     ],
-    "timestamp": "2026-03-24 23:47:39"
+    "timestamp": "2026-03-24 23:47:48"
   },
   {
     "channel": "❄️┃lowlights",
@@ -151,5 +153,29 @@
       "$16.39M/s | Las Sis"
     ],
     "timestamp": "2026-03-24 23:47:45"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "30e88ad4-966a-4353-91f8-69facfe50e74",
+    "brainrot_lines": [
+      "$2.57M/s | Pirulitoita Bicicletera"
+    ],
+    "timestamp": "2026-03-24 23:47:47"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "11f2fb57-5c00-4150-b4f0-ad5ee566840c",
+    "brainrot_lines": [
+      "$21.83M/s | Mieteteira Bicicleteira"
+    ],
+    "timestamp": "2026-03-24 23:47:48"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "a9787292-2727-4317-973c-20f816d9b5c8",
+    "brainrot_lines": [
+      "$3.67M/s | Chill Puppy"
+    ],
+    "timestamp": "2026-03-24 23:47:50"
   }
 ]
