@@ -123,9 +123,10 @@
     "channel": "💧┃midlights",
     "server_id": "1a5f5160-5b35-4a4d-8b87-c1ce28bf7e07",
     "brainrot_lines": [
-      "$17.99M/s | Los Spooky Combinasionas"
+      "$17.99M/s | Los Spooky Combinasionas",
+      "$84.86M/s | Spooky and Pumpky"
     ],
-    "timestamp": "2026-03-24 23:41:38"
+    "timestamp": "2026-03-24 23:41:45"
   },
   {
     "channel": "🎖️┃goatlights",
@@ -134,5 +135,53 @@
       "$85.34M/s | La Food Combinasion"
     ],
     "timestamp": "2026-03-24 23:41:38"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "c37f9c47-c75f-44ba-ab7e-62197b3fb553",
+    "brainrot_lines": [
+      "$1.32M/s | Cuadramat and Pakrahmatmamat"
+    ],
+    "timestamp": "2026-03-24 23:41:40"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "e0b7ff45-8f1c-4d14-8923-2f345bd7e5de",
+    "brainrot_lines": [
+      "$17.69M/s | Spinny Hammy"
+    ],
+    "timestamp": "2026-03-24 23:41:42"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "729f0e3b-7220-4e68-96f1-d88495011751",
+    "brainrot_lines": [
+      "$152.96M/s | Capitano Moby"
+    ],
+    "timestamp": "2026-03-24 23:41:43"
+  },
+  {
+    "channel": "❄️┃lowlights",
+    "server_id": "415b5021-b716-482d-aa80-c5df0275be83",
+    "brainrot_lines": [
+      "$2.22M/s | 25"
+    ],
+    "timestamp": "2026-03-24 23:41:44"
+  },
+  {
+    "channel": "💧┃midlights",
+    "server_id": "578a8f1d-b9ac-4237-922c-eeb774a0fcd1",
+    "brainrot_lines": [
+      "$14.20M/s | Chicleteira Noelteira"
+    ],
+    "timestamp": "2026-03-24 23:41:44"
+  },
+  {
+    "channel": "🎖️┃goatlights",
+    "server_id": "73c3b989-2b46-4ad4-bb37-9a761522ec96",
+    "brainrot_lines": [
+      "$142.76M/s | Burguro and Fryuro"
+    ],
+    "timestamp": "2026-03-24 23:41:45"
   }
 ]
